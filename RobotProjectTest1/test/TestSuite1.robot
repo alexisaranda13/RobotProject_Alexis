@@ -21,6 +21,10 @@ MySecondTest
 MyThirdTest
     [Tags]    example
     Log    test3
+    
+MyFourthTest
+    [Tags]    easy
+    Log    test4
      
     
 # FirstSeleniumTest
